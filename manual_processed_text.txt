@@ -1,0 +1,280 @@
+Endangered wild salmon infected by
+newly discovered viruses
+
+Kristina M Miller,Karia H Kaukinen,Shaorong Li, 
+Amy Tabata, Amy Teffer,Hugh W Ferguson.
+
+1Department of Earth, Ocean and Atmospheric Sciences, University of British
+Columbia, Vancouver, Canada;2Pacific Biological Station, Fisheries and 
+Nanaimo, Canada;3Pacific Salmon Foundation, Vancouver, Canada;
+4Department of Forest Sciences, University of British Columbia, Vancouver, Canada;
+5Fisheries and Cooperative Resource Management
+Institute, School of Resource and Environmental Management, Simon Fraser
+University, Burnaby, Canada;6School of Veterinary Medicine, St. George’s
+University, True Blue, Grenada;7Department of Microbiology and Immunology,
+University of British Columbia, Vancouver, Canada;8Department of Botany,
+University of British Columbia, Vancouver, Canada;9Institute for the Oceans and
+Fisheries, University of British Columbia, Vancouver, Canada
+Abstract The collapse of iconic, keystone populations of sockeye (Oncorhynchus nerka) and
+Chinook (Oncorhynchus tshawytscha) salmon in the Northeast Pacific is of great concern. It is
+thought that infectious disease may contribute to declines, but little is known about viruses
+endemic to Pacific salmon. Metatranscriptomic sequencing and surveillance of dead and moribund
+cultured Chinook salmon revealed a novel arenavirus, reovirus and nidovirus. Sequencing revealed
+two different arenavirus variants which each infect wild Chinook and sockeye salmon. In situ
+hybridisation localised arenavirus mostly to blood cells. Population surveys of >6000 wild juvenile
+Chinook and sockeye salmon showed divergent distributions of viruses, implying different
+epidemiological processes. The discovery in dead and dying farmed salmon of previously
+unrecognised viruses that are also widely distributed in wild salmon, emphasizes the potential role
+that viral disease may play in the population dynamics of wild fish stocks, and the threat that these
+viruses may pose to aquaculture.
+DOI: https://doi.org/10.7554/eLife.47615.001
+Introduction
+Pacific salmon (Oncorhynchus spp.) species have supported coastal ecosystems and Indigenous pop-
+ulations surrounding the North Pacific Ocean for tens of millennia. Today, through their anadromous
+life history, salmon continue to transport nutrients between aquatic and terrestrial environments
+(Cederholm  et  al.,1999),  supply  the  primary  food  sources  for  orca  whales  and  sea  lions
+(Wasser et al., 2017; Willson and Halupka, 1995; Chasco et al., 2017; Thomas et al., 2017) and
+provide economic livelihoods for local communities (Noakes et al., 2002). In the Northeast Pacific,
+widespread declines of Chinook (O. tshawytscha) and sockeye (O. nerka) salmon have occurred in
+the last 30 years, leading some populations to the brink of extirpation (Peterman and Dorner,
+2012; Heard et al., 2007; Miller et al., 2011; Jeffries et al., 2014), and a cause of great concern to
+Indigenous groups, commercial and recreational fishers, and the general public. Although the exact
+number of salmon spawning in rivers is unknown, there are large declines in sockeye salmon over a
+
+eLife digest Keystone species are animals and plants that play a pivotal role in supporting the
+ecosystems they live in, making their conservation a high priority. Chinook and sockeye salmon are
+two such species. These fish play a central role in the coastal ecosystems of the Northeast Pacific,
+where they have supported Indigenous populations for thousands of years.
+The last three decades have seen large declines in populations of Chinook and sockeye salmon.
+One factor that may be involved in these declines is viral infection. In the last ten years, advances in
+DNA sequencing technologies have led to the discovery of many new viruses, and Mordecai et al.
+used these technologies to look for new viruses in Pacific salmon.
+First, Mordecai et al. looked for viruses in dead and dying salmon from farms and discovered
+three previously unknown viruses. Next, they screened for these viruses in farmed salmon, hatchery
+salmon and wild salmon to determine their distribution. Two of the viruses were present in fish from
+the three sources, while one of the viruses was only found in farmed fish. The fact that the three
+viruses are distributed differently raises questions about how the viruses are transmitted within and
+between farmed, hatchery and wild salmon populations.
+These findings will aid salmon-conservation efforts by informing the extent to which these viruses
+are present in wild salmon populations. Future work will focus on determining the risks these viruses
+pose to salmon health and investigating the potential for exchange between hatchery, farmed and
+wild salmon populations. While farmed Pacific salmon may pose some transmission risk to their wild
+counterparts, they also offer the opportunity to study disease processes that are not readily
+observable in wild salmon. In turn, such data can be used to develop policies to minimize the impact
+of these infectious agents and improve the survival of wild salmon populations.
+DOI: https://doi.org/10.7554/eLife.47615.002
+large geographic area (Peterman and Dorner, 2012). Similarly, Chinook salmon stocks are at only a
+small percentage of their historic levels, and more than 50 stocks are extinct (Heard et al., 2007).
+It is thought that infectious disease may contribute to salmon declines (Miller et al., 2011), but
+little is known about infectious agents, especially viruses, endemic to Pacific salmon. Infectious dis-
+ease has been identified as a potential factor in poor early marine survival in migratory salmon; an
+immune response to viruses has been associated with mortality in wild migratory smolts and adults
+(Miller et al., 2011; Jeffries et al., 2014), and in unspecified mortalities of salmon in marine net
+pens in British Columbia (BC) (Miller et al., 2017; Di Cicco et al., 2018). For instance, immune
+responses to viruses such as Infectious haematopoietic necrosis virus (IHNV) and potentially undis-
+covered viruses, have been associated with mortality in wild juvenile salmon (Jeffries et al., 2014).
+This is an important observation as mortality of juvenile salmon can be as high as ~90% transitioning
+from fresh water to the marine environment (Clark et al., 2016). Together, these suggest that there
+are undiscovered viruses which may contribute to decreased survival of Pacific salmon but a con-
+certed effort to look for viruses that may contribute to mortality has been absent.
+Here, virus-discovery was implemented to screen for viruses associated with mortality. Together,
+sequencing of dead or moribund aquaculture salmon and live-sampled wild salmon, in-situ hybridiza-
+tion, and epidemiological surveys revealed that previously unknown viruses, some of which are asso-
+ciated with disease, infect wild salmon from different populations.
+Results and discussion
+Fish were screened against a viral disease detection biomarker panel (VDD) that elucidates a con-
+served  transcriptional  pattern  indicative  of  an  immune  response  to  active  RNA  viral  infection
+(Miller et al., 2017). For instance, in a previous study, we showed that 31% of moribund Atlantic
+salmon were in a viral disease state, and half of these were not known to be positive for any known
+RNA viruses (Di Cicco et al., 2018). Individuals that were strongly VDD-positive, but negative for
+any known salmon viruses (e.g. Piscine orthoreovirus, Erythrocytic necrosis virus, Infectious pancre-
+atic necrosis virus, Infectious hematopoietic necrosis virus, Infectious salmon anaemia virus and
+Pacific  salmon  paramyxovirus)  were  subject  to  metatranscriptomic  sequencing.  The  sequencing
+revealed viral transcripts belonging to members of the Arenaviridae, Nidovirales and Reoviridae.
+
+
+Nucleic acid extractions
+Samples were provided by the Fisheries and Oceans, Canada Aquaculture Management Division
+and Salmon Enhancement Program. Additional samples were collected by the Hakai Institute Juve-
+nile Salmon Program. Hatchery samples are identified by fin clipping, and in this study, wild fish
+could also encompass unmarked hatchery fish. DNA is extracted for detection of DNA viruses, bac-
+teria and parasites from the same tissues from which we extract RNA to target RNA viruses. Nucleic
+acid extractions on the audit samples (eight tissues-gill, atrium, ventricle, liver, pyloric caeca, spleen,
+head kidney and posterior kidney) were as previously described (Laurin et al., 2019). For the wild
+Chinook and sockeye samples, homogenization using Tri-reagent was performed in a Mixer Mill
+(Qiagen, Maryland) on each tissue independently (five tissues- gill, liver, heart, head kidney and
+brain). Tri-reagent homogenates were organically separated using bromochloropropane, with the
+RNA-containing aqueous layer removed for RNA extraction and the lower DNA-containing organic
+layer separated from the organics using a TNES-Urea Buffer (Asahida et al., 1996).
+For the DNA extractions, a pool of 250 ml (5 tissues contributing 50 ml each) from each of the tis-
+sue TNES aqueous layers was processed for DNA using the BioSprint 96 DNA Blood kit (Qiagen,
+Maryland) and the BioSprint 96 instrument (Qiagen, Maryland) both based on manufacturer’s instruc-
+tions. DNA was quantified using spectrophotometer readings performed on the Infinite M200Pro
+spectrophotometer (Tecan Group Ltd., Switzerland) and normalised to 62.5 ng/ml using the Freedom
+Evo (Tecan Group Ltd., Switzerland) liquid handling unit, based on manufacturer’s instructions.
+Similarly, a pool of 100 ml (5 tissues contributing 20 ul each) of the aqueous layer was processed
+for RNA using the Magmax 96 for Microarrays RNA kit (Ambion Inc, Austin, TX, USA) with a Biomek
+NXP  (Beckman-Coulter,  Mississauga,  ON,  Canada)  automated  liquid-handling  instrument,  both
+based on manufacturer’s instructions. The quantity of RNA was analysed using spectrophotometer
+readings and normalised to 62.5 ng/ml with a Biomek NXP (Beckman-Coulter, Mississauga, ON, Can-
+ada) automated liquid-handling instrument, based on manufacturer’s instructions. Mixed tissue RNA
+(1 mg) was reverse transcribed into cDNA using the superscript VILO master mix kit (Invitrogen,
+Carlsbad, CA), following the manufacturer’s instructions.
+Metatranscriptomic sequencing
+We applied a panel of host biomarkers (genes) that when co-expressed are indicative of a viral dis-
+ease state (VDD) (Miller et al., 2017). Samples that displayed a positive viral disease state, but were
+not positive for viruses based on our 45 microbe panel screening, (as described in Bass et al.,
+2019), were selected for high throughput sequencing of RNA (dual RNA-seq) to discover new viral
+agents.
+Total RNA from the mixed tissue samples was evaluated for quality using the Total RNA Pico chip
+on the Agilent 2100 Bioanalyzer (Agilent, Santa Clara, CA) and quantified using the Qubit RNA Br kit
+(Invitrogen, Carlsbad, CA). A 1/100 dilution of the ERCC RNA Spike-In control mix 1 (Ambion, Carls-
+bad, CA) was added to each total RNA sample prior to ribosomal depletion and library preparation.
+The sequencing libraries and ribosomal removal were performed using the Epicentre ScriptSeq
+Complete Gold Kit (Epidemiology) (Illumina, San Diego, CA) according to manufacturer’s instruc-
+tions and included a positive control (Universal Human Reference RNA) (Agilent, Santa Clara, CA)
+and negative control (no total RNA). The rRNA depleted total RNA was purified using the Zymo
+RNA Clean and Concentrate-5 kit (Zymo Research, Irvine, CA) according to manufacturer’s instruc-
+tions and quantified using the Qubit RNA HS kit (Invitrogen, Carlsbad, CA). The ScriptSeq Index
+reverse primers were added to the cDNA during the final amplification step which involved 14
+cycles. The 3’-terminal tagged cDNA and final amplified library were purified using the Agencourt
+AMPure XP system (Beckman Coulter, Brea, CA). The final library size was determined using the HS
+DNA chip on the Agilent 2100 Bioanalyzer (Agilent, Santa Clara, CA) and the concentration was
+determined using the Qubit dsDNA HS kit (Invitrogen, Carlsbad, CA). Sample libraries were normal-
+ised to 4 nM, pooled appropriately and denatured and diluted to obtain a final library of 17pM. Prior
+to loading into a v3 2300 bp kit (Illumina, San Diego, CA), 2% phiX was spiked in. Finally, a
+paired-end 251 bp sequencing run was performed on the Illumina MiSeq System (Illumina, San
+Diego, CA), with four samples barcoded and pooled for each run.
+
+indexed over one lane).
+Sequence analysis
+The quality of the raw reads was checked using FASTQC (v0.11.7) (https://www.bioinformatics.bab-
+raham.ac.uk/projects/fastqc/). Low quality reads or regions of adapter sequences were removed
+using Trimmomatic (v0.36) (Bankevich et al., 2012). Reads were aligned to the Atlantic Salmon
+genome using bwa mem (v0.7.17-r1188) and unmapped reads were retained. The unmapped reads
+were then balanced using Trimmomatic and assembled into contigs using SPAdes (v3.9.1) genome
+assembler (Bankevich et al., 2012). Putative viral contigs were identified by aligning translated con-
+tigs using DIAMOND (v0.9.16.117) (Buchfink et al., 2015) to the nr database. Reference alignments
+of all the reads to the viral contigs were used to ensure that no assembly artefacts occurred and the
+contigs were trimmed appropriately using Geneious (V10.1.3). Assembled sequences are available
+on Genbank (BioProject: PRJNA547678, Genbank accession numbers: MK611979 - MK611996) and
+raw  sequencing  reads  have  been  uploaded  to  the  Sequence  Read  Archive  (SAMN11974798  -
+SAMN11974801).
+Phylogenetic analysis
+The phylogeny of each virus was resolved based on the predicted replicase (CAV and SPAV) and
+ORF1ab (PsNV) amino acid sequences, as nucleotide sequences were too dissimilar to reliably align.
+Alignments were generated with MAFTT (v7.42) (Katoh and Standley, 2013) employing the E-INS-i
+algorithm. This alignment algorithm is suited for evolutionarily distinct sequences with conserved
+motifs (such as viral RNA polymerase) that are embedded within long unalignable residues. The
+novel salmon viruses were aligned with other viral genomes with shared amino acid similarity as
+detected by DIAMOND (Buchfink et al., 2015). In addition, viral genomes which are known to be
+evolutionarily related to these were included. The multiple protein alignments were then used as to
+build phylogenies using PhyML 3.0 (Guindon et al., 2010) plugin within Geneious with 100 boot-
+straps to generate branch support values. Trees are mid-point rooted for clarity only, and do not
+necessarily represent the ancestral relationship of the viruses.
+Assay development and screening
+Assembled viral sequence contigs from the appropriate sample were imported into Primer Express
+v3.0.1 software (Thermo Fisher Scientific, Waltham, MA) where qPCR Taqman assays were designed
+using default parameters (Supplementary file 1). These assays were then tested using the Fluidigm
+BioMark microfluidics-based qPCR system following the same protocol as described below except
+with the new viral primer pairs included in the STA step and controls. From these initial screens, the
+most consistent assay was chosen and APC standards were constructed to include in future Fluidigm
+BioMark qPCR microbe panels. The assay-specific theoretical limit of detection was calculated as
+previously described (Miller et al., 2016). The limit of detection was applied to categorise fish with
+amplifications above the 95% detection threshold that is the concentration of the analyte in the sam-
+ple   matrix   that   would   be   detected   with   high   statistical   certainty(95%   of   the
+time). Epidemiological maps were generated using these data with the limit of detection applied.
+The maps were created within R using ggplot2 (Wickham, 2016) and ggmap (Kahle and Wickham,
+2013).
+RT-PCR
+For all samples, after reverse transcription, resultant cDNA was combined with the normalised DNA
+in a ratio of 1:1 and used as the template for the specific target amplification (STA) step. The STA
+involves a pre-amplification of all primers to be run on a single dynamic array at low concentrations
+(0.2 mM of each of the primers), and upon completion, excess primers were removed by treating
+with Exo-SAP-IT (Affymetrix, Santa Clara, CA) according to manufacturer’s instructions and then
+diluted 1:5 in DNA re- suspension buffer (Teknova, Hollister, CA).
+The 96.96 gene expression dynamic array (Fluidigm Corporation, CA, US) was run according to
+the procedure outlined previously (Miller et al., 2016). Specifically, a 5 ml template mixture was
+
+Assay mix was prepared with 1each of the appropriate TaqMan qPCR assays (agent probe in
+FAM-MGB and artificial positive construct (APC) probe in NED-MGB, 10 mM of primers and 3 mM of
+probes) and 1Assay Loading Reagent (Fluidigm PN 85000736).
+Controls were added prior to running the dynamic array (Miller et al., 2016). Note, APC clones
+to all assays were contained in a single serially diluted pool, loaded last, minimising the likelihood of
+contamination of any single APC clone. Once loading and mixing of the dynamic array was com-
+pleted within the IFC HX controller, the array was transferred to the BioMark HD instrument and
+processed using the GE 996 Standard TaqMan program for qPCR which includes a hot start fol-
+lowed by 40 cycles at 95˚C for 15 s and 60˚C for 1 min (Fluidigm Corporation, CA, USA). The data
+were analysed with Real-Time PCR Analysis Software (Fluidigm Corporation, CA, USA).
+Chinook smolt samples positive for PsNV from 2014 were used for tissue localization (Figure 4A).
+Gill, liver, heart, kidney, and brain were individually homogenized, processed for RNA extraction (as
+described above), and 1 ug normalised RNA was used for reverse transcription. Resultant cDNA for
+each individual tissue was used as the template for PsNV relative quantification using an ABI 7900HT
+(ABI) in 384-well optical plates. The qPCR reaction volume was 12 ml, which comprised 6 ml of 2X
+TaqMan Gene Expression Master Mix (ABI PN 4369016), 4.3 ml of water, 0.22 ml of mixed forward
+and reverse primers (900 nM final concentration of each), 0.24 ml of each probe (200 nM final con-
+centration; assay specific probe and APC control probe), and 1 ml of cDNA template. Temperature
+cycles included one 2 min hold (50˚C), a 10 min denaturation (95˚C), and 40 cycles of denaturation
+(95˚C for 15 s), annealing and extension (60˚C for 60 s). Amplification conditions on the ABI 7900
+were not optimised for this platform, but rather closely reflected those used on the BioMark plat-
+form. Samples run on the ABI did not undergo STA enrichment. Standard curves were constructed
+using the same APC clone standards spiked in with CHSE DNA as on the BioMark. Serial dilutions
+were made to obtain concentrations of 24, 1.2102, 6102, 3   103, 1.5   104, 1.5   105 copies
+of the clone per reaction. Clone standards, unknown samples, positive and negative controls were
+all run in duplicate. The ABI software calculates the relative copy number based upon the serial dilu-
+tion of the standard curve.
+Histopathology
+Before the discovery of these viruses clinical signs of disease and histopathological lesions were
+assessed for approximately 230 farmed Chinook salmon sampled in the Audit program. Conse-
+quently, gills, skeletal muscle, spleen, liver, heart, anterior and posterior kidney, pyloric caeca and
+brain from eleven samples of Chinook (eight wild fish and three farmed fish) and ten sockeye (all
+wild fish) positive for SPAV were histopathologically analysed to assess the presence of lesions. All
+tissues were fixed in 10% neutral buffered formalin, dehydrated through an ascending gradient of
+alcohol solutions, embedded in paraffin wax, cut at 3.5 mm thickness, and stained with routine hema-
+toxylin and eosin (H and E) for morphological evaluation by light microscope.
+In Situ Hybridization (ISH)
+RNA-ISH was performed using RNAscope 2.5 HD Duplex assay (Advanced Cell Diagnostics, Newark,
+California, USA, catalog# 322500) according to the manufacturer’s instructions. Briefly, consecutive
+sections of Chinook and sockeye salmon samples utilised for the histopathological analysis were
+dewaxed by incubating for 60 min at 60˚C and endogenous peroxidases were quenched with hydro-
+gen peroxide for 10 min at room temperature. Slides were then boiled for 30 min in RNAscope tar-
+get retrieval reagents (Advanced Cell Diagnostics, Newark, California, USA) and incubated for 30
+min in RNAscope Protease Plus reagent prior to hybridization. The slides underwent hybridization
+with RNAscope probes against a portion of SPAV-1 and SPAV-2 genome (Advanced Cell Diagnos-
+tics, Newark, California, USA, catalog #513591-C2 and 538881-C2, respectively). A RNAscope probe
+against Coil-p84 housekeeping gene in Chinook salmon (Advanced Cell Diagnostics, Newark, Cali-
+fornia, USA, catalog #512391) was used as positive control probe to confirm the efficacy of the
+probes and the viability of the samples. Two samples which were negative for SPAV-1 and SPAV-2
+were used as negative controls to confirm absence of background and (or) non-specific cross-
+
+microscopy.
+Acknowledgements
+We thank Jeffrey Joy, Veronica Paglowski, Jan Finke, Thomas Waltzek, Ben Neuman and Humberto
+Debat  for  advice  and  help  with  the  analysis,  DFO  Aquaculture  Management  Division,  Salmon
+Enhancement Program and the Hakai Institute Juvenile Salmon Program for provision of samples,
+and all of the vessel and field crews who collected the thousands of samples. We thank Amy Chan
+and all members of the Suttle lab for their feedback as the project developed. This research was
+supported by funding for the Strategic Salmon Health Initiative (SSHI), which is part of the Salish Sea
+Marine Survival Project. The SSHI seeks to discover microbes present in salmon in British Columbia
+that may be undermining the productivity of Pacific salmon, and is funded by the Pacific Salmon
+Foundation (PSF), Genome British Columbia, and Fisheries and Oceans, Canada. This is publication
+number 32 from the Salish Sea Marine Survival Project (marinesurvivalproject.com).
+Additional information
+                                                                                          
+The funders had no role in study design, data collection and interpretation, or the
+decision to submit the work for publication.
+Author contributions
+Gideon J Mordecai, Conceptualization, Formal analysis, Investigation, Visualization, Methodology,
+Writing—original draft, Writing—review and editing, Led the analyses and prepared the figures;
+Kristina  M  Miller,  Conceptualization,  Resources,  Supervision,  Funding  acquisition,  Investigation,
+Project administration, Writing—review and editing, Conceived the study; Emiliano Di Cicco, Formal
+analysis, Investigation, Writing—original draft, Conducted pathology, histopathology and in situ
+hybridisation; Angela D Schulze, Investigation, Methodology, Performed sequencing, nucleic acid
+extractions and molecular analyses; Karia H Kaukinen, Investigation, Methodology, Conducted field
+sampling, nucleic acid extractions and molecular analyses including tissue localisation by RT-PCR;
+Tobi J Ming, Investigation, Methodology, Conducted field sampling, nucleic acid extractions and
+molecular analyses; Shaorong Li, Data curation, Investigation, Methodology, Conducted nucleic acid
+extractions and molecular analyses; Amy Tabata, Data curation, Conducted field sampling, nucleic
+acid extractions and molecular analyses; Amy Teffer, Investigation, Writing—review and editing,
+Conducted  field sampling,  nucleic acid extractions  and molecular  analyses; David  A Patterson.
+
